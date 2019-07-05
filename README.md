@@ -72,6 +72,10 @@ If you are working on a module that you would like to be used by the community, 
 
 # Other Resources
 
+## Ethermint
+Ethermint will be an implementation of the EVM that runs on top of tendermint consensus, a Proof of Stake system. 
+* github: https://github.com/cosmos/ethermint
+
 ## List of Projects in Cosmos & Tendermint Ecosystem
 * link: https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243
 
@@ -86,3 +90,5 @@ If you are working on a module that you would like to be used by the community, 
 
 ## [Delegators] Guides, Tutorials, Wallets & Explorers
 * link: https://forum.cosmos.network/t/delegators-cosmos-tendermint-guides-wallets-explorers-tools/2168
+
+
